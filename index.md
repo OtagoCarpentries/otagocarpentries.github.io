@@ -4,10 +4,14 @@
 
 ### Data Carpentry Workshops
 
+- TBC March
+
 ### Software Carpentry Workshops
+
+- TBC
 
 ## Upcoming Events
 
-[Research Bazaar](https://resbaz.github.io/resbaz2019/dunedin/)
+- 11-13th Feb 2019 [Research Bazaar](https://resbaz.github.io/resbaz2019/dunedin/)
 
 ## Past Workshops and Events
