@@ -18,3 +18,12 @@
     - Data Carpentry
     
 - 23-24 Aug: Carpentries Train the Trainer
+
+
+## Otago Study Group
+
+[Events](http://otagostudygroup.github.io/studyGroup/
+
+[SYSKA blog](https://otagostudygroup.github.io/syskasnippets/)
+
+[Study group email list](https://docs.google.com/forms/d/e/1FAIpQLSewe4HY8jNJfjE0Tz9tPYs4a1iPqL4BpM5mszEO-As_1giEkw/viewform)
