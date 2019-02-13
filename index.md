@@ -9,9 +9,10 @@
 
 ## Upcoming Events
 
-- 11-13 Feb 2019: [Research Bazaar](https://resbaz.github.io/resbaz2019/dunedin/)
+
 
 ## Past Workshops and Events
+- 11-13 Feb 2019: [Research Bazaar](https://resbaz.github.io/resbaz2019/dunedin/)
 
 - 11-13 Nov 2018: eResearch@Otago day
     - Software Carpentry
