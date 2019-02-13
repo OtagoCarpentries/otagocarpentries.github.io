@@ -3,7 +3,7 @@
 ## Upcoming Workshops
 
 
-- TBC March: Data Carpentry (R ecology curriculum)
+- [13-14 March: Data Carpentry (R ecology curriculum)](https://otagocarpentries.github.io/2019-03-13-otago/)
 
 
 
