@@ -22,7 +22,7 @@
 
 ## Otago Study Group
 
-[Events](http://otagostudygroup.github.io/studyGroup/
+[Events](http://otagostudygroup.github.io/studyGroup/)
 
 [SYSKA blog](https://otagostudygroup.github.io/syskasnippets/)
 
