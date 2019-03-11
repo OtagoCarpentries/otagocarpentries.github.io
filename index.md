@@ -5,7 +5,7 @@
 
 - [13-14 March: Data Carpentry (R ecology curriculum)](https://otagocarpentries.github.io/2019-03-13-otago/)
 
-- TBC April: Software Carpentry
+- 10-11 April: Software Carpentry (Intro to shell, Intro to Python, Intro to versions control using Git)
 
 ## Upcoming Events
 
@@ -22,6 +22,8 @@
 
 
 ## Otago Study Group
+
+Tidy Tuesday - Weekly on Tuesdays, 2pm in Science Library seminar room
 
 [Events](http://otagostudygroup.github.io/studyGroup/)
 
