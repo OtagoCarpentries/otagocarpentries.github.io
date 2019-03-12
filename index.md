@@ -1,3 +1,5 @@
+Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.org). Otago Carpentries is a group of Carpentries trained instructors at University of Otago that run and co-ordinate [Carpentries workshops](https://carpentries.org) and other associated activities at University of Otago. 
+
 # Workshops and Events
 
 ## Upcoming Workshops
