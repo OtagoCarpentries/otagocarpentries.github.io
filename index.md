@@ -5,7 +5,7 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 ## Upcoming Workshops
 
 
-- 10-11 April: Software Carpentry (Intro to shell, Intro to Python, Intro to version control using Git)
+- [10-11 April: Software Carpentry (Intro to shell, Intro to Python, Intro to version control using Git)](https://otagocarpentries.github.io/2019-04-10-otago/)
 
 ## Upcoming Events
 
