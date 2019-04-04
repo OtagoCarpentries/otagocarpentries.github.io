@@ -3,7 +3,7 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 # Workshops and Events
 
 ## Upcoming Workshops
-- TDC November 2019:
+- TBC November 2019:
     - Software Capentry
     - Data Carpentry
 
