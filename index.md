@@ -4,7 +4,17 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 ## Upcoming Workshops
 
-- Mornings 9,16,23,30 May 2019 - Data Carpentry - R
+- Mornings 9,16,23,30 May 2019: Data Carpentry - R
+
+- TBC June 2019
+
+- TBC July 2019
+
+- TBC August 2019
+
+- TBC September 2019
+
+- TBC October 2019
 
 - TBC November 2019:
     - Software Capentry
