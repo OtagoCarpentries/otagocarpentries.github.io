@@ -4,7 +4,7 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 ## Upcoming Workshops
 
-- Mornings 9,16,23,30 May 2019: Data Carpentry - R
+- [Mornings 9,16,23,30 May 2019: Data Carpentry - R](https://otagocarpentries.github.io/2019-05-09-otago/)
 
 - TBC June 2019
 
