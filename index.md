@@ -6,11 +6,8 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 ## Upcoming Workshops
 
-- [Mornings 9,16,23,30 May 2019: Data Carpentry - R](https://otagocarpentries.github.io/2019-05-09-otago/)
 
-- TBC June 2019
-
-- TBC July 2019
+- [8-9 July 2019 (Wellington Campus): Data Carpentry (R social sciences curriculum)](https://otagocarpentries.github.io/2019-07-08-wellington/)
 
 - TBC August 2019
 
@@ -30,6 +27,7 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 
 ## Past Workshops and Events
+- [Mornings 9,16,23,30 May 2019: Data Carpentry - R](https://otagocarpentries.github.io/2019-05-09-otago/)
 
 - [10-11 April 2019: Software Carpentry (Intro to shell, Intro to Python, Intro to version control using Git)](https://otagocarpentries.github.io/2019-04-10-otago/)
 
