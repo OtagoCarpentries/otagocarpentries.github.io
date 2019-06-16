@@ -6,6 +6,7 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 ## Upcoming Workshops
 
+- 4-5 July 2019: [Data Carpentry - Genomics](https://otagocarpentries.github.io/2019-07-04-otago)
 
 - [8-9 July 2019 (Wellington Campus): Data Carpentry (R social sciences curriculum)](https://otagocarpentries.github.io/2019-07-08-wellington/)
 
