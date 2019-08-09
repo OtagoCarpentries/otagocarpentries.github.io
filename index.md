@@ -8,15 +8,16 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 
 
-- TBC August 2019
+- 28-29 August 2019 - Data Carpentry (R social sciences curriculum)
 
-- TBC September 2019
+- TBC September 2019 - Data Carpentry - genomics
 
-- TBC October 2019
+- TBC October 2019 - Software Carpentry (Intro to shell, Intro to Python, Intro to version control using Git)] 
 
 - TBC November 2019:
-    - Software Capentry
+    - Software Carpentry
     - Data Carpentry
+    
 
 
 
@@ -26,6 +27,8 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 
 ## Past Workshops and Events
+
+- 29-30 July 2019 Carpentries Train the Trainer
 
 - [8-9 July 2019 (Wellington Campus): Data Carpentry (R social sciences curriculum)](https://otagocarpentries.github.io/2019-07-08-wellington/)
 
@@ -43,7 +46,7 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
     - Software Carpentry
     - Data Carpentry
     
-- 23-24 Aug: Carpentries Train the Trainer
+- 23-24 Aug 2018: Carpentries Train the Trainer
 
 
 ## Otago Study Group
@@ -55,3 +58,7 @@ Tidy Tuesday - Weekly on Tuesdays, 2pm in Science Library seminar room
 [SYSKA blog](https://otagostudygroup.github.io/syskasnippets/)
 
 [Study group email list](https://docs.google.com/forms/d/e/1FAIpQLSewe4HY8jNJfjE0Tz9tPYs4a1iPqL4BpM5mszEO-As_1giEkw/viewform)
+
+## Otago South Campus Bioinformatics Group
+
+[Events and training materials](https://otagomohio.github.io/)
