@@ -12,6 +12,8 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 - TBC September 2019 - Data Carpentry - genomics
 
+- TBC Late September/early October (Christchurch Campus) - Data Carpentry (R social sciences curriculum)
+
 - TBC October 2019 - Software Carpentry (Intro to shell, Intro to Python, Intro to version control using Git)] 
 
 - TBC November 2019:
@@ -51,7 +53,7 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 ## Otago Study Group
 
-Tidy Tuesday - Weekly on Tuesdays, 2pm in Science Library seminar room
+Tidy Tuesday - Weekly, 2pm on Tuesdays via Zoom (for August)
 
 [Events](http://otagostudygroup.github.io/studyGroup/)
 
