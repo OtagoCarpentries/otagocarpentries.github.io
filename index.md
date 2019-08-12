@@ -8,7 +8,7 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 
 
-- 28-29 August 2019 - Data Carpentry (R social sciences curriculum)
+- 28-29 August 2019 - [Data Carpentry (R social sciences curriculum)](https://otagocarpentries.github.io/2019-08-28-otago)
 
 - TBC September 2019 - Data Carpentry - genomics
 
