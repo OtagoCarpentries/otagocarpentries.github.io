@@ -56,6 +56,7 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 ## Otago Study Group
 
 Tidy Tuesday - Weekly, 2pm on Tuesdays via Zoom (for August)
+
 [Events](http://otagostudygroup.github.io/studyGroup/)
 
 [SYSKA blog](https://otagostudygroup.github.io/syskasnippets/)
