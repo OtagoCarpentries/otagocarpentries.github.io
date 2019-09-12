@@ -12,7 +12,9 @@ Otago Carpentries is not affiliated with [The Carpentries](https://carpentries.o
 
 - 25-26 September 2019 - [Data Carpentry - genomics](https://otagocarpentries.github.io/2019-09-25-otago/)
 
-- TBC Late September/early October (Christchurch Campus) - Data Carpentry (R social sciences curriculum)
+- 14 October (Wellington campus) Introduction to version control with Git
+
+- 24-25 October (Christchurch Campus) - Data Carpentry (R social sciences curriculum)
 
 - TBC October 2019 - Software Carpentry (Intro to shell, Intro to Python, Intro to version control using Git)] 
 
