@@ -10,14 +10,13 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 
 
-- 25-26 September 2019 - [Data Carpentry - genomics](https://otagocarpentries.github.io/2019-09-25-otago/)
 
-- 14 October (Wellington campus) [Introduction to version control with Git](https://otagocarpentries.github.io/2019-10-14-wellington/)
+
+
 
 - 24-25 October (Christchurch Campus) - Data Carpentry (R social sciences curriculum)
 
-- TBC November 2019:
-    - Software Carpentry
+- 14-15 November 2019 - Software Carpentry (Intro to BASH, python, and version control)
 
     
 
@@ -25,10 +24,14 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 ## Upcoming Events
 
-- TBC November 2019: eResearch@Otago day
+- 13 November 2019: eResearch@Otago day
 
 
 ## Past Workshops and Events
+
+- 14 October (Wellington campus) [Introduction to version control with Git](https://otagocarpentries.github.io/2019-10-14-wellington/)
+
+- 25-26 September 2019 - [Data Carpentry - genomics](https://otagocarpentries.github.io/2019-09-25-otago/)
 
 - 28-29 August 2019 - [Data Carpentry (R social sciences curriculum)](https://otagocarpentries.github.io/2019-08-28-otago)
 
