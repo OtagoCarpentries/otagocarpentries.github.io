@@ -7,15 +7,6 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 ## Upcoming Workshops
 
 
-
-
-
-
-
-
-
-- 24-25 October 2019 (Christchurch Campus) - [Data Carpentry (R social sciences curriculum)](https://otagocarpentries.github.io/2019-10-24-christchurch/)
-
 - 14-15 November 2019 - [Software Carpentry (Intro to BASH, python, and version control)](https://otagocarpentries.github.io/2019-11-14-otago/)
   - [Extra workshops (occuring concurrently)](https://otagocarpentries.github.io/2019-11-14-otago-halfday/)
     - Intro to SQl
@@ -33,6 +24,8 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 
 ## Past Workshops and Events
+
+- 24-25 October 2019 (Christchurch Campus) - [Data Carpentry (R social sciences curriculum)](https://otagocarpentries.github.io/2019-10-24-christchurch/)
 
 - 14 October 2019 (Wellington campus) [Introduction to version control with Git](https://otagocarpentries.github.io/2019-10-14-wellington/)
 
