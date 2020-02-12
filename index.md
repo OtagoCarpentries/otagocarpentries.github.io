@@ -6,7 +6,7 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 ## Upcoming Workshops
 
-
+- 17-18 Feb 2020: [Data Carpentry - R](https://otagocarpentries.github.io/2020-02-17-otago/)
 
     
 
