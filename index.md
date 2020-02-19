@@ -6,18 +6,36 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 ## Upcoming Workshops
 
-- 17-18 Feb 2020: [Data Carpentry - R](https://otagocarpentries.github.io/2020-02-17-otago/)
-
-    
+- TBD April 2020: Data Carpentry - R
 
 
 
 ## Upcoming Events
 
+- Research Bazaar 2020: Mid year TBD
 
+## Otago Study Group
+
+Tidy Tuesday - Weekly, 2pm on Tuesdays via Zoom (for August)
+
+[Events](http://otagostudygroup.github.io/studyGroup/)
+
+[SYSKA blog](https://otagostudygroup.github.io/syskasnippets/)
+
+[Study group email list](https://docs.google.com/forms/d/e/1FAIpQLSewe4HY8jNJfjE0Tz9tPYs4a1iPqL4BpM5mszEO-As_1giEkw/viewform)
+
+## Otago South Campus Bioinformatics Group
+
+[Events and training materials](https://otagomohio.github.io/)
 
 
 ## Past Workshops and Events
+
+### 2020
+
+- 17-18 Feb 2020: [Data Carpentry - R](https://otagocarpentries.github.io/2020-02-17-otago/)
+
+### 2019
 
 - 20-21 November 2019 (Wellington campus) - [Data Carpentry (R social sciences curriculum)](https://otagocarpentries.github.io/2019-11-20-wellington/)
 
@@ -58,16 +76,4 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 - 23-24 Aug 2018: Carpentries Train the Trainer
 
 
-## Otago Study Group
 
-Tidy Tuesday - Weekly, 2pm on Tuesdays via Zoom (for August)
-
-[Events](http://otagostudygroup.github.io/studyGroup/)
-
-[SYSKA blog](https://otagostudygroup.github.io/syskasnippets/)
-
-[Study group email list](https://docs.google.com/forms/d/e/1FAIpQLSewe4HY8jNJfjE0Tz9tPYs4a1iPqL4BpM5mszEO-As_1giEkw/viewform)
-
-## Otago South Campus Bioinformatics Group
-
-[Events and training materials](https://otagomohio.github.io/)
