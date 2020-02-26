@@ -18,13 +18,35 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 ## Otago Study Group
 
-Tidy Tuesday - Weekly, 2pm on Tuesdays via Zoom (for August)
+2-3pm Tuesdays in room 319 Biochemistry Dept.
 
-[Events](http://otagostudygroup.github.io/studyGroup/)
+(room 319 is at the top of the stairs on the third floor, before the swipe doors)
+
+Tuesday 03 March - Drop in session
+- Get help for making plots and data wrangling
+- Get tips and tricks to improve the reproducibility of your research
+- Help available for R, Bash, Git, Python, etc
+
+Tuesday 17 March - Drop in session
+- Get help for making plots and data wrangling
+- Get tips and tricks to improve the reproducibility of your research
+- Help available for R, Bash, Git, Python, etc
+
+Tuesday 24 March - Why is my script slow?
+- Big O and how many times will something happen
+- Easy wins
+    - Parallelism (gnu parallel)
+    - Can I do it outside the loop?
+
+Tuesday 31 March - RMarkdown for research
+- Reports
+- Thesis
+- Presentations
+- Posters
 
 [Past Study Group Sessions](sg_past_events)
 
-[SYSKA blog](https://otagostudygroup.github.io/syskasnippets/)
+[SYSKA (stuff you should know about) blog](https://otagostudygroup.github.io/syskasnippets/)
 
 [Study group email list](https://docs.google.com/forms/d/e/1FAIpQLSewe4HY8jNJfjE0Tz9tPYs4a1iPqL4BpM5mszEO-As_1giEkw/viewform)
 
