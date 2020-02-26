@@ -35,6 +35,7 @@ Tuesday 17 March - Drop in session
 Tuesday 24 March - Why is my script slow?
 - Big O and how many times will something happen
 - Easy wins
+    - Is there a faster tool?
     - Parallelism (gnu parallel)
     - Can I do it outside the loop?
 
