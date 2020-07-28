@@ -1,5 +1,11 @@
 ## Past events
 
+### 2020
+
+- July 2020: [MiniBaz2020](https://otagocarpentries.github.io/minibaz2020) (a workshop only version of Research Bazaar 2020)
+
+- February 2020: [CarpentryConnect NZ 2020](https://tinyurl.com/carpentryconnectnz2020)
+
 ### 2019
 
 - 13 November 2019: eResearch@Otago day
