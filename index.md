@@ -27,7 +27,7 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 Format will be roughly first hour as a show and tell then at about the second hour move to an interactive worked example and practice
 
-A zoom option will be available for the show/tell portion
+A zoom option will be available for the show/tell portion. [Zoom meeting link](https://otago.zoom.us/j/99838550412?pwd=SFg4eEdDZFNYODF1V0hEYmE3Y2hpZz09) password 538595
 
 - 11th August - Introduction to RMarkdown
 - 18th August - R functions and loops
