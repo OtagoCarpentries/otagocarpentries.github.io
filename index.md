@@ -25,7 +25,7 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 (room 319 is at the top of the stairs on the third floor, before the swipe doors)
 
-Format will be roughly first hour as a show and tell then at about the second hour move to an interactive worked example and practice
+Format will be roughly first hour as a show and tell then at about the second hour move to an interactive worked example and practice or help related to your own analyses.
 
 A zoom option will be available for the show/tell portion. [Zoom meeting link](https://otago.zoom.us/j/99838550412?pwd=SFg4eEdDZFNYODF1V0hEYmE3Y2hpZz09) password 538595
 
