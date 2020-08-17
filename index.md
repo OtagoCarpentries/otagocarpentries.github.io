@@ -9,7 +9,7 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 - 25-26 August: [Software Carpentry Workshop - Unix Shell/Intro R/Git](https://otagocarpentries.github.io/2020-08-25-otago)
 - 27 August: [Introduction to RMarkdown](https://otagocarpentries.github.io/2020-08-27-rmarkdown/)
 
-- TBC Nov/Dec Otago Bioinformatics Week
+- 23-27 November Otago Bioinformatics Spring School Week
 
 [Past Workshops](past_workshops)
 
@@ -33,6 +33,7 @@ A zoom option will be available for the show/tell portion. [Zoom meeting link](h
   - [Collaborative document for questions](https://docs.google.com/document/d/1yCnsZDdX7sp6w36w2ZGiuYADBQlNCxJcxmyXr3MfJBU/edit?usp=sharing)
   - [Lesson material](https://github.com/MattBixley/Markdown_Lessons)
 - 18th August - R functions and loops
+  - [Lesson material](https://github.com/murraycadzow/R_functions_and_iterators)
 - 1st September - Extended Tidyverse for data manipulation
 - 8th September - Extra features of RMarkdown
 - 15th September - GenomicRanges in R
