@@ -35,6 +35,7 @@ A zoom option will be available for the show/tell portion. [Zoom meeting link](h
 - 1st September - Extended Tidyverse for data manipulation
   - [Lesson material](https://github.com/murraycadzow/R_extended_data_manipulation)
 - 8th September - Extra features of RMarkdown
+  - [Lesson material](https://github.com/MattBixley/Markdown_Lessons)
 - 15th September - GenomicRanges in R
 
 
