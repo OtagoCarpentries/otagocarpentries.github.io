@@ -36,7 +36,9 @@ A zoom option will be available for the show/tell portion. [Zoom meeting link](h
   - [Lesson material](https://github.com/murraycadzow/R_extended_data_manipulation)
 - 8th September - Extra features of RMarkdown
   - [Lesson material](https://github.com/MattBixley/Markdown_Lessons)
-- 15th September - GenomicRanges in R
+- 15th Rmarkdown for theses
+  - [Lesson material](https://github.com/murraycadzow/bookdown_thesis_demo)
+- 22nd September - GenomicRanges in R
 
 
 
