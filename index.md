@@ -39,7 +39,7 @@ A zoom option will be available for the show/tell portion. [Zoom meeting link](h
 - 15th Rmarkdown for theses
   - [Lesson material](https://github.com/murraycadzow/bookdown_thesis_demo)
 - 22nd September - GenomicRanges in R
-
+  - [Lesson material](https://github.com/murraycadzow/R_tutorials/blob/master/genomics/genomic_data_in_r.Rmd)
 
 
 [Past Study Group Sessions](sg_past_events)
