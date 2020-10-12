@@ -19,13 +19,9 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 ## Otago Study Group
 
-1-3pm Tuesdays in room 319 Biochemistry Dept.
+1-2pm Tuesdays on Zoom.
 
-(room 319 is at the top of the stairs on the third floor, before the swipe doors)
-
-Format will be roughly first hour as a show and tell then at about the second hour move to an interactive worked example and practice or help related to your own analyses.
-
-A zoom option will be available for the show/tell portion. [Zoom meeting link](https://otago.zoom.us/j/99838550412?pwd=SFg4eEdDZFNYODF1V0hEYmE3Y2hpZz09) password 538595
+[Zoom meeting link](https://otago.zoom.us/j/99838550412?pwd=SFg4eEdDZFNYODF1V0hEYmE3Y2hpZz09) password 538595
 
 [Collaborative document for questions](https://docs.google.com/document/d/1yCnsZDdX7sp6w36w2ZGiuYADBQlNCxJcxmyXr3MfJBU/edit?usp=sharing)
 
@@ -41,7 +37,9 @@ A zoom option will be available for the show/tell portion. [Zoom meeting link](h
   - [Lesson material](https://github.com/murraycadzow/bookdown_thesis_demo)
 - 22nd September - GenomicRanges in R
   - [Lesson material](https://github.com/murraycadzow/R_tutorials/blob/master/genomics/genomic_data_in_r.Rmd)
-
+- 13th Oct onwards 
+  - Gaining practice with data wrangling/visualisation through [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
+  - Ask questions related to your own data/project
 
 [Past Study Group Sessions](sg_past_events)
 
