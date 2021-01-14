@@ -18,9 +18,9 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 ## Otago Study Group
 
-1-2pm Tuesdays on Zoom.
+~~1-2pm Tuesdays on Zoom.~~ On hiatus
 
-[Zoom meeting link](https://otago.zoom.us/j/99838550412?pwd=SFg4eEdDZFNYODF1V0hEYmE3Y2hpZz09) password 538595
+
 
 
 - 13th Oct onwards 
