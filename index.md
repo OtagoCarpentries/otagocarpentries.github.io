@@ -6,8 +6,7 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 ## Upcoming Workshops
 
-- [23-27 November Otago Bioinformatics Spring School Week](https://otagocarpentries.github.io/bioinformatics-spring-school-2020)
-  - Expressions of interest are now open, and close 5pm 27th October NZT.
+
 
 [Past Workshops](past_workshops)
 
