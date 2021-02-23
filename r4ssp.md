@@ -1,3 +1,7 @@
-10 - 12 noon, Mondays
+## R for Successful Student Projects
 
-Science Library Seminar Room (ground floor)
+Mondays 10 - 12 noon
+
+University of Otago Science Library Seminar Room (ground floor)
+
+
