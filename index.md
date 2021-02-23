@@ -16,9 +16,7 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 [Past Events](past_events)
 
-## R for Successful Student Projects
 
-R for successful student projects is mini-course in a flipped-classroom format where the material is available and run through in your own time and drop in sessions for questions/assistance are run. For more information about the content and sessions see [THIS PAGE](r4ssp).
 
 ## Otago Study Group
 
@@ -36,6 +34,10 @@ R for successful student projects is mini-course in a flipped-classroom format w
 [SYSKA (stuff you should know about) blog](https://otagostudygroup.github.io/syskasnippets/)
 
 [Study group email list](https://docs.google.com/forms/d/e/1FAIpQLSewe4HY8jNJfjE0Tz9tPYs4a1iPqL4BpM5mszEO-As_1giEkw/viewform)
+
+### R for Successful Student Projects
+
+R for successful student projects is mini-course in a flipped-classroom format where the material is available and run through in your own time and drop in sessions for questions/assistance are run. For more information about the content and sessions see [THIS PAGE](r4ssp).
 
 ## Otago South Campus Bioinformatics Group
 
