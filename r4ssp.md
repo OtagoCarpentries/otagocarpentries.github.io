@@ -13,7 +13,8 @@ There is no assessment or credit offered as part of this course.
 
 The course material is free of cost and is comprised of:
  - [Handouts and Exercises](https://drive.google.com/drive/folders/1ttf1s8-vkJNOlHdphfi2zFyMq6gGEvCy?usp=sharing)
- - [The R 4 Data Science online book](https://r4ds.had.co.nz)
+ - [The R for Data Science online book](https://r4ds.had.co.nz) (main reference text)
+ - [Tabular data analysis with R and the Tidyverse](https://static-bcrf.biochem.wisc.edu/courses/Tabular-data-analysis-with-R-and-Tidyverse/book/)
 
 
 Material can be worked through on either your own machine (R and RStudio will need to be installed) or on the [Virtual Student Desktop](https://blogs.otago.ac.nz/studentit/student-desktop/)
