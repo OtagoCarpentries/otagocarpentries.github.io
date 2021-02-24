@@ -27,7 +27,7 @@ Material can be worked through on either your own machine (R and RStudio will ne
 **Where:** University of Otago Science Library Seminar Room (ground floor). The room fits 25 people (reduced to 12 under Alert Level 2), and will operate on a first come-first served basis.
 
 
-If you are following along weekly the proposed schedule is as follows:
+If you are following along weekly, the proposed schedule is as follows:
 
 Date | Module | Topic
 ---|---|---
@@ -50,4 +50,4 @@ Modules can be completed the learners own pace - modules 1 - 4 will be released 
 
 ### ITS operated R courses
 
-University of Otago ITS also offer free courses for students and staff for R. Descriptions and registration can be found at https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/ 
+University of Otago ITS also offer free courses for students and staff for R. Descriptions and registration can be found at [https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/](https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/) 
