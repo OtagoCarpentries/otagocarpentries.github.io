@@ -16,7 +16,7 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 July: Research Bazaar 2021
 
-Novemeber: Otago Bioinformatics Spring School 2021
+November: Otago Bioinformatics Spring School 2021
 
 [Past Events](past_events)
 
