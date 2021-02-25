@@ -61,11 +61,14 @@ University of Otago ITS also offer free courses for students and staff for R. De
 
 ### Other places to learn more about R or get help
 
-- [The Carpentries](https://carpentries.org)
+
+[The Carpentries](https://carpentries.org) is a global organisation that provides workshops to teach computational skills for researchers. Periodically we run these workshops on campus. Check out [https://otagocarpentries.github.io/](https://otagocarpentries.github.io) for up-coming workshops run at Otago.
   * [Data Carpentry - Ecology](https://datacarpentry.org/R-ecology-lesson/)
   * [Data Carpentry - Social Sciences](https://datacarpentry.org/r-socialsci/) 
   * [Software Carpentry - Programming with R](http://swcarpentry.github.io/r-novice-inflammation)
   * [Software Carpentry - R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder) 
-- [R for Data Science online community](https://www.rfordatasci.com)
+
+
+[R for Data Science online community](https://www.rfordatasci.com) is an online community created to help people learn R from the [R for Data Science book](https://r4ds.had.co.nz) by Hadley Wickham.
 
 
