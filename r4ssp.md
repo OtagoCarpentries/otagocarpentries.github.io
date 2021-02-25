@@ -34,7 +34,7 @@ Date | Module | Topic
 ---|---|---
 8th March | 1 | Start with tidy data (delivered as a lesson)
 15th March | 2 | Make friends with R and RStudio
-22nd March | 3 | Data visualisatoin
+22nd March | 3 | Data visualisation
 29th March | 4 | Data handling
 5th April | Mid Semester Break |
 12th April | 5 | Exploratory and descriptive data analysis
@@ -44,7 +44,7 @@ Date | Module | Topic
 10th May | 8 | Modularity and Flow of Control 2
 
 
-The drop-in session on Monday 8th will be delivered as a lesson, subsequent sessions will be in the form of faciliated group help.
+The drop-in session on Monday 8th will be delivered as a lesson, subsequent sessions will be in the form of facilitated group help.
 
 Modules can be completed the learners own pace - modules 1 - 4 will be released prior to 8th March with modules 5 - 8 being released prior to mid-semester break.
 
