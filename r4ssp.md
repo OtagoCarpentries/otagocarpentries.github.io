@@ -10,6 +10,7 @@ It is designed as a course that learners can work through in their own time and 
 There is no assessment or credit offered as part of this course.
 
 
+
 ### Course Resources
 
 The course material is free of cost and is comprised of:
@@ -49,9 +50,22 @@ Date | Module | Topic
 
 The drop-in session on Monday 8th will be delivered as a lesson, subsequent sessions will be in the form of facilitated group help.
 
-Modules can be completed the learners own pace - modules 1 - 4 will be released prior to 8th March with modules 5 - 8 being released prior to mid-semester break.
+Modules can be completed at the learners own pace 
+- Modules 1 - 4 will be released prior to 8th March
+- Modules 5 - 8 being released prior to mid-semester break.
 
 
 ### ITS operated R courses
 
-University of Otago ITS also offer free courses for students and staff for R. Descriptions and registration can be found at [https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/](https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/) 
+University of Otago ITS also offer free courses for students and staff for R. Descriptions and registration can be found at [https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/](https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/)
+
+### Other places to learn more about R or get help
+
+- [The Carpentries](https://carpentries.org)
+  * [Data Carpentry - Ecology](https://datacarpentry.org/R-ecology-lesson/)
+  * [Data Carpentry - Social Sciences](https://datacarpentry.org/r-socialsci/) 
+  * [Software Carpentry - Programming with R](http://swcarpentry.github.io/r-novice-inflammation)
+  * [Software Carpentry - R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder) 
+- [R for Data Science online community](https://www.rfordatasci.com)
+
+
