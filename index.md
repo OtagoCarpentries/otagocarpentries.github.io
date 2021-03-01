@@ -6,9 +6,9 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 ## Upcoming Workshops
 
-7-8th March: Data Carpentry Workshop - Learn about data tidying, cleaning, and data analysis/visualisation using R
+7-8th April: Data Carpentry Workshop - Learn about data tidying, cleaning, and data analysis/visualisation using R
 
-9th March: RNAseq workshop
+9th April: RNAseq workshop
 
 [Past Workshops](past_workshops)
 
