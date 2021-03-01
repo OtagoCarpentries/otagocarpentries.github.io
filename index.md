@@ -39,7 +39,7 @@ November: Otago Bioinformatics Spring School 2021
 
 [Study group email list](https://docs.google.com/forms/d/e/1FAIpQLSewe4HY8jNJfjE0Tz9tPYs4a1iPqL4BpM5mszEO-As_1giEkw/viewform)
 
-### R for Successful Student Projects
+### [R for Successful Student Projects](r4ssp)
 
 R for successful student projects is mini-course in a flipped-classroom format where the material is available and run through in your own time and drop in sessions for questions/assistance are run. For more information about the content and sessions see [THIS PAGE](r4ssp).
 
