@@ -1,1 +1,7 @@
+title: Otago Carpentries
+email: carpentries@otago.ac.nz
+baseurl: "/otagocarpentries.github.io/"
+url: "https://murraycadzow.github.io"
 theme: jekyll-theme-leap-day
+
+
