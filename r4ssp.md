@@ -23,6 +23,10 @@ The course material is free of cost and is comprised of:
 
 Material can be worked through on either your own machine (R and RStudio will need to be installed) or on the [Virtual Student Desktop](https://blogs.otago.ac.nz/studentit/student-desktop/)
 
+#### Feedback
+
+It would be greatly appreciated if as you complete modules you fill in this three question survey [https://tinyurl.com/r4ssp-module-fb](https://tinyurl.com/r4ssp-module-fb) which will help further iterations of the course.
+
 ### Drop-in help sessions
 
 **What:** An opportunity to get help in-person on the course content and attendance is not required to participate in this course. To get the most out of these sessions bringing your own device with access to R/RStudio is strongly recommended.
@@ -34,18 +38,18 @@ Material can be worked through on either your own machine (R and RStudio will ne
 
 If you are following along weekly, the proposed schedule is as follows:
 
-Date | Module | Topic
----|---|---
-8th March | 1 | Start with tidy data (delivered as a lesson)
-15th March | 2 | Make friends with R and RStudio
-22nd March | 3 | Data visualisation
-29th March | 4 | Data handling
+Date | Module | Topic | Readings
+---|---|---|---
+8th March | 1 | Start with tidy data (delivered as a lesson) | 
+15th March | 2 | Make friends with R and RStudio | [R for Data Science - Chapter 1: Introduction] (https://r4ds.had.co.nz/introduction.html), [Chapter 4: Workflow basics](https://r4ds.had.co.nz/workflow-basics.html)
+22nd March | 3 | Data visualisation | [R for Data Science - Chapter 3: Data visualisation](https://r4ds.had.co.nz/data-visualisation.html)
+29th March | 4 | Data handling | [R for Data Science - Chapter 5: Data transformation ](https://r4ds.had.co.nz/transform.html)
 5th April | Mid Semester Break |
-12th April | 5 | Exploratory and descriptive data analysis
-19th April | 6 | Performing inferential tests (N.B this is _how_ to run statistical tests, not _why_ or _what they mean_)
-26th April | ANZAC Observed |
-3rd May | 7 | Modularity and Flow of Control 1
-10th May | 8 | Modularity and Flow of Control 2
+12th April | 5 | Exploratory and descriptive data analysis |
+19th April | 6 | Performing inferential tests (N.B this is _how_ to run statistical tests, not _why_ or _what they mean_) |
+26th April | ANZAC Observed | |
+3rd May | 7 | Modularity and Flow of Control 1 |
+10th May | 8 | Modularity and Flow of Control 2 |
 
 
 The drop-in session on Monday 8th will be delivered as a lesson, subsequent sessions will be in the form of facilitated group help.
