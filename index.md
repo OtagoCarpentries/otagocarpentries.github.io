@@ -4,21 +4,14 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 # Workshops and Events
 
-## Upcoming Workshops
 
-7-8th April: Data Carpentry Workshop - Learn about data tidying, cleaning, and data analysis/visualisation using R
+{% include upcoming.md %}
 
-9th April: RNAseq workshop
 
-[Past Workshops](past_workshops)
+[Past Workshops and Events](past)
 
-## Upcoming Events
 
-July: Research Bazaar 2021
 
-November: Otago Bioinformatics Spring School 2021
-
-[Past Events](past_events)
 
 
 
@@ -39,7 +32,7 @@ November: Otago Bioinformatics Spring School 2021
 
 [Study group email list](https://docs.google.com/forms/d/e/1FAIpQLSewe4HY8jNJfjE0Tz9tPYs4a1iPqL4BpM5mszEO-As_1giEkw/viewform)
 
-### [R for Successful Student Projects](r4ssp)
+### [R for Successful Student Projects (R4SSP)](r4ssp) 
 
 R for successful student projects is mini-course in a flipped-classroom format where the material is available and run through in your own time and drop in sessions for questions/assistance are run. For more information about the content and sessions see [THIS PAGE](r4ssp).
 
