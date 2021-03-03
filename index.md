@@ -8,13 +8,6 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 {% include upcoming_list.md %}
 
 
-[Past Workshops and Events](past)
-
-
-
-
-
-
 ## Mini Courses
 
 ### [R for Successful Student Projects (R4SSP)](r4ssp) 

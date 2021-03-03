@@ -1,3 +1,5 @@
+[Past Workshops and Events](past)
+
 ## Upcoming Workshops
 
 7-8th April: Data Carpentry Workshop - Learn about data tidying, cleaning, and data analysis/visualisation using R
