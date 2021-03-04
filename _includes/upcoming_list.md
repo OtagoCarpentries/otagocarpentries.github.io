@@ -4,7 +4,7 @@
 
 7-8th April: Data Carpentry Workshop - Learn about data tidying, cleaning, and data analysis/visualisation using R
 
-9th April: RNAseq workshop
+9th April: [Genomic Aotearoa - RNAseq workshop](https://www.eventbrite.co.nz/e/rna-seq-workshop-otago-tickets-144284792699)
 
 ## Upcoming Events
 
