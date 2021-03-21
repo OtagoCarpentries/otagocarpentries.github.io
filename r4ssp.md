@@ -55,7 +55,7 @@ Date | Module | Topic | Readings
 The drop-in session on Monday 8th will be delivered as a lesson, subsequent sessions will be in the form of facilitated group help.
 
 Modules can be completed at the learners own pace 
-- Modules 1 - 4 will be released prior to 8th March
+- Modules 1 - 4 released
 - Modules 5 - 8 being released prior to mid-semester break.
 
 
