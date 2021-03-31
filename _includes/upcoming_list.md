@@ -8,6 +8,6 @@
 
 ## Upcoming Events
 
-July: Research Bazaar 2021
+5-7 July: Research Bazaar 2021
 
 November: Otago Bioinformatics Spring School 2021
