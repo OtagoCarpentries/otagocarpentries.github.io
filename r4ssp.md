@@ -15,8 +15,6 @@ There is no assessment or credit offered as part of this course.
 
 The course material is free of cost and is comprised of:
  - [Handouts and Exercises](https://drive.google.com/drive/folders/1ttf1s8-vkJNOlHdphfi2zFyMq6gGEvCy?usp=sharing)
-   * Modules 1 -4 Currently available
-   * Modules 5 -8 will be released by mid-semester
  - [The R for Data Science online book](https://r4ds.had.co.nz) (main reference text)
  - [Tabular data analysis with R and the Tidyverse](https://static-bcrf.biochem.wisc.edu/courses/Tabular-data-analysis-with-R-and-Tidyverse/book/)
 
