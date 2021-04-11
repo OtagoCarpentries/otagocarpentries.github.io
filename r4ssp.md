@@ -54,9 +54,8 @@ Date | Module | Topic | Readings
 
 The drop-in session on Monday 8th will be delivered as a lesson, subsequent sessions will be in the form of facilitated group help.
 
-Modules can be completed at the learners own pace 
-- Modules 1 - 4 released
-- Modules 5 - 8 being released prior to mid-semester break.
+Modules can be completed at the learners own pace, with 8 modules to work through.
+
 
 
 ### ITS operated R courses
