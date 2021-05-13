@@ -1,6 +1,7 @@
 ## R for Successful Student Projects
 
 
+
 ### Course description
 
 R for successful student projects is a free, self-driven, mini course that will introduce participants to the R programming language for the purpose of data analysis. Interpretation of statistical analysis is outside of the scope of this course.
@@ -14,7 +15,7 @@ There is no assessment or credit offered as part of this course.
 ### Course Resources
 
 The course material is free of cost and is comprised of:
- - [Handouts and Exercises](https://drive.google.com/drive/folders/1ttf1s8-vkJNOlHdphfi2zFyMq6gGEvCy?usp=sharing)
+ - [Handouts and Exercises](https://drive.google.com/drive/folders/1ttf1s8-vkJNOlHdphfi2zFyMq6gGEvCy?usp=sharing) - licenced under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
  - [The R for Data Science online book](https://r4ds.had.co.nz) (main reference text)
  - [Tabular data analysis with R and the Tidyverse](https://static-bcrf.biochem.wisc.edu/courses/Tabular-data-analysis-with-R-and-Tidyverse/book/)
 
