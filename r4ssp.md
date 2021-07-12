@@ -4,21 +4,16 @@
 
 ### Course description
 
-R for successful student projects is a free, self-driven, mini course that will introduce participants to the R programming language for the purpose of data analysis. Interpretation of statistical analysis is outside of the scope of this course.
-
-It is designed as a course that learners can work through in their own time and pace with a drop-in help session provided weekly from the 8th of March as an opportunity to access help with the content in-person.
+Advances in scientific technologies from remote sensors to genetic sequencers mean scientists are now working with huge data sets, and must be expert in the computer tools that can analyse those data. Many undergraduate science papers now require students to process and analyse real data using special programming languages like R. In this mini-course, we will help you to learn exactly those parts of R that science students need for their in-course research assignments. Class sessions combine structured presentation of new material, and hands-on coding practice with support from experienced R programmers, scientists, and educators.
 
 There is no assessment or credit offered as part of this course.
-
-
 
 ### Course Resources
 
 The course material is free of cost and is comprised of:
- - [Handouts and Exercises](https://drive.google.com/drive/folders/1ttf1s8-vkJNOlHdphfi2zFyMq6gGEvCy?usp=sharing) - licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
- - [The R for Data Science online book](https://r4ds.had.co.nz) (main reference text)
- - [Tabular data analysis with R and the Tidyverse](https://static-bcrf.biochem.wisc.edu/courses/Tabular-data-analysis-with-R-and-Tidyverse/book/)
-
+- [Handouts and Exercises](https://drive.google.com/drive/folders/1ttf1s8-vkJNOlHdphfi2zFyMq6gGEvCy?usp=sharing) - licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+- [The R for Data Science online book](https://r4ds.had.co.nz) (main reference text)
+- [Tabular data analysis with R and the Tidyverse](https://static-bcrf.biochem.wisc.edu/courses/Tabular-data-analysis-with-R-and-Tidyverse/book/)
 
 Material can be worked through on either your own machine (R and RStudio will need to be installed) or on the [Virtual Student Desktop](https://blogs.otago.ac.nz/studentit/student-desktop/)
 
@@ -39,38 +34,30 @@ If you are following along weekly, the proposed schedule is as follows:
 
 Date | Module | Topic | Readings
 ---|---|---|---
-8th March | 1 | Start with tidy data (delivered as a lesson) | 
-15th March | 2 | Make friends with R and RStudio | [R for Data Science - Chapter 1: Introduction] (https://r4ds.had.co.nz/introduction.html), [Chapter 4: Workflow basics](https://r4ds.had.co.nz/workflow-basics.html)
-22nd March | 3 | Data visualisation | [R for Data Science - Chapter 3: Data visualisation](https://r4ds.had.co.nz/data-visualisation.html)
-29th March | 4 | Data handling | [R for Data Science - Chapter 5: Data transformation ](https://r4ds.had.co.nz/transform.html)
-5th April | Mid Semester Break |
-12th April | 5 | Exploratory and descriptive data analysis |
-19th April | 6 | Performing inferential tests (N.B this is _how_ to run statistical tests, not _why_ or _what they mean_) |
-26th April | ANZAC Observed | |
-3rd May | 7 | Modularity and Flow of Control 1 |
-10th May | 8 | Modularity and Flow of Control 2 |
+26 July | 1 |Make Friends with R and RStudio | [R for Data Science - Chapter 1: Introduction](https://r4ds.had.co.nz/introduction.html), [Chapter 4: Workflow basics](https://r4ds.had.co.nz/workflow-basics.html), and Handout 1 - Get started with R
+2 Aug | 2 | Data visualisation | [R for Data Science - Chapter 3: Data visualisation](https://r4ds.had.co.nz/data-visualisation.html) and Handout 2 - Tabular data basics
+9 Aug | 3 | Data Tranformation | [R for Data Science - Chapter 5: Data transformation ](https://r4ds.had.co.nz/transform.html), Handout 3 - Data transformation with Base R
+16 Aug | 4 | Data handling | [R for Data Science - Chapter 5: Data transformation ](https://r4ds.had.co.nz/transform.html)
+23 Aug | 5| Start with Tidy Data | Handout 5 - Preparation Prevents Problems
+30 Aug | Mid Semester Break |
+6 Sep | 6 | Performing inferential tests (N.B this is _how_ to run statistical tests, not _why_ or _what they mean_)  | Handout 6 - Run Inferential Tests in R (and Understand the Outputs)
+13 Sep | 7 | Modularity and Flow of Control 1 | [R for Data Science - Chapter 19: Functions](https://r4ds.had.co.nz/functions.html), Handout 7 - Making Decisions: Conditionals
+20 Sep | 8 | Modularity and Flow of Control 2 | [R for Data Science - Chapter 21: Iteration](https://r4ds.had.co.nz/iteration.html), Handout 8 - Never Type It Twice: Loops
 
-
-The drop-in session on Monday 8th will be delivered as a lesson, subsequent sessions will be in the form of facilitated group help.
+The drop-in session on Monday 26th July will be delivered as a lesson, subsequent sessions will be in the form of facilitated group help.
 
 Modules can be completed at the learners own pace, with 8 modules to work through.
 
-
-
-### ITS operated R courses
+### Other ITS operated R courses
 
 University of Otago ITS also offer free courses for students and staff for R. Descriptions and registration can be found at [https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/](https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/)
 
 ### Other places to learn more about R or get help
 
-
 [The Carpentries](https://carpentries.org) is a global organisation that provides workshops to teach computational skills for researchers. Periodically we run these workshops on campus. Check out [https://otagocarpentries.github.io/](https://otagocarpentries.github.io) for up-coming workshops run at Otago. The workshop content is also free and available to be worked through outside of the workshops. These are the R relevant workshops from [The Carpentries](https://carpentries.org):
-  * [Data Carpentry - Ecology](https://datacarpentry.org/R-ecology-lesson/)
-  * [Data Carpentry - Social Sciences](https://datacarpentry.org/r-socialsci/) 
-  * [Software Carpentry - Programming with R](http://swcarpentry.github.io/r-novice-inflammation)
-  * [Software Carpentry - R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder) 
-
+* [Data Carpentry - Ecology](https://datacarpentry.org/R-ecology-lesson/)
+* [Data Carpentry - Social Sciences](https://datacarpentry.org/r-socialsci/) 
+* [Software Carpentry - Programming with R](http://swcarpentry.github.io/r-novice-inflammation)
+* [Software Carpentry - R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder)
 
 [R for Data Science online community](https://www.rfordatasci.com) is an online community created to help people learn R from the [R for Data Science book](https://r4ds.had.co.nz) by Hadley Wickham.
-
-
