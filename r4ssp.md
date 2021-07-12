@@ -20,32 +20,29 @@ Material can be worked through on either your own machine (R and RStudio will ne
 
 It would be greatly appreciated if as you complete modules you fill in this three question survey [https://tinyurl.com/r4ssp-module-fb](https://tinyurl.com/r4ssp-module-fb) which will help further iterations of the course.
 
-### Drop-in help sessions
+### Drop-in Sessions and Help
 
-**What:** An opportunity to get help in-person on the course content and attendance is not required to participate in this course. To get the most out of these sessions bringing your own device with access to R/RStudio is strongly recommended.
+**What:** These sessions will be structured as a workshop with content taught and some exercises available. To get the most out of these sessions bringing your own device with access to R/RStudio is strongly recommended.
 
 **When:** Drop-in anytime on Mondays between 10 and 12 noon, starting from 26th July
 
 **Where:** University of Otago Science Library Seminar Room (ground floor). The room fits 25 people (reduced to 12 under Alert Level 2), and will operate on a first come-first served basis.
 
-If you are following along weekly, the proposed schedule is as follows:
+It is possible to complete the course in your own time, but the drop-in sessions will follow this schedule.
 
 Date | Module | Topic | Readings
 ---|---|---|---
 26 July | 1 |Make Friends with R and RStudio | [R for Data Science - Chapter 1: Introduction](https://r4ds.had.co.nz/introduction.html), [Chapter 4: Workflow basics](https://r4ds.had.co.nz/workflow-basics.html), and Handout 1 - Get started with R
 2 Aug | 2 | Data visualisation | [R for Data Science - Chapter 3: Data visualisation](https://r4ds.had.co.nz/data-visualisation.html) and Handout 2 - Tabular data basics
 9 Aug | 3 | Data Transformation | [R for Data Science - Chapter 5: Data transformation](https://r4ds.had.co.nz/transform.html), Handout 3 - Data transformation with Base R
-16 Aug | 4 | Data handling | [R for Data Science - Chapter 5: Data transformation](https://r4ds.had.co.nz/transform.html)
+16 Aug | 4 | Data handling | [R for Data Science - Chapter 5: Data transformation](https://r4ds.had.co.nz/transform.html), Handout 4 - Generate Summary Statistics in R
 23 Aug | 5| Start with Tidy Data | Handout 5 - Preparation Prevents Problems
 30 Aug | Mid Semester Break |
-6 Sep | 6 | Performing inferential tests (N.B this is _how_ to run statistical tests, not _why_ or _what they mean_)  | Handout 6 - Run Inferential Tests in R (and Understand the Outputs)
+6 Sep | 6 | Performing inferential tests | Handout 6 - Run Inferential Tests in R (and Understand the Outputs)
 13 Sep | 7 | Modularity and Flow of Control 1 | [R for Data Science - Chapter 19: Functions](https://r4ds.had.co.nz/functions.html), Handout 7 - Making Decisions: Conditionals
 20 Sep | 8 | Modularity and Flow of Control 2 | [R for Data Science - Chapter 21: Iteration](https://r4ds.had.co.nz/iteration.html), Handout 8 - Never Type It Twice: Loops
 
-The drop-in session on Monday 26th July will be delivered as a lesson, subsequent sessions will be in the form of facilitated group help.
-
-Modules can be completed at the learners own pace, with 8 modules to work through.
-
+During the drop-in sessions assistance for your own code projects can also be saught.
 ### Other ITS operated R courses
 
 University of Otago ITS also offer free courses for students and staff for R. Descriptions and registration can be found at [https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/](https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/)
