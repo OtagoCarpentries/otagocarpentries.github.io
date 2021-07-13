@@ -46,7 +46,8 @@ During the sessions assistance for your own code projects can also be saught.
 
 ### Sign-up
 
-Please register your interest for attendance by filling in this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSehHKJeWoAST1J_zjFZN3cyg2jomVtknyTjUkX4y7I552adpQ/viewform?usp=sf_link). We'll send you reminders each week for the upcoming session.
+Please register your interest for attendance by filling in this [**form:** https://forms.gle/T3bvSdiDfkVgqiAr5](https://forms.gle/T3bvSdiDfkVgqiAr5). We'll send you reminders each week for the upcoming session.
+
 ### Other ITS operated R courses
 
 University of Otago ITS also offer free courses for students and staff for R. Descriptions and registration can be found at [https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/](https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/)
