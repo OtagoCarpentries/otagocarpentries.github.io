@@ -20,11 +20,11 @@ Material can be worked through on either your own machine (R and RStudio will ne
 
 It would be greatly appreciated if as you complete modules you fill in this three question survey [https://tinyurl.com/r4ssp-module-fb](https://tinyurl.com/r4ssp-module-fb) which will help further iterations of the course.
 
-### Drop-in Sessions and Help
+### Sessions and Help
 
-**What:** These sessions will be structured as a workshop with content taught and some exercises available. To get the most out of these sessions bringing your own device with access to R/RStudio is strongly recommended.
+**What:** These sessions will be structured as a workshop with content taught and some exercises available. There will also be an opportunity to get assistance with code you are working on. To get the most out of these sessions bringing your own device with access to R/RStudio is strongly recommended.
 
-**When:** Drop-in anytime on Mondays between 10 and 12 noon, starting from 26th July
+**When:** Mondays between 10 and 12 noon, starting from 26th July until 20 September.
 
 **Where:** University of Otago Science Library Seminar Room (ground floor). The room fits 25 people (reduced to 12 under Alert Level 2), and will operate on a first come-first served basis.
 
@@ -42,7 +42,11 @@ Date | Module | Topic | Readings
 13 Sep | 7 | Modularity and Flow of Control 1 | [R for Data Science - Chapter 19: Functions](https://r4ds.had.co.nz/functions.html), Handout 7 - Making Decisions: Conditionals
 20 Sep | 8 | Modularity and Flow of Control 2 | [R for Data Science - Chapter 21: Iteration](https://r4ds.had.co.nz/iteration.html), Handout 8 - Never Type It Twice: Loops
 
-During the drop-in sessions assistance for your own code projects can also be saught.
+During the sessions assistance for your own code projects can also be saught.
+
+### Sign-up
+
+Please register your interest for attendance by filling in this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSehHKJeWoAST1J_zjFZN3cyg2jomVtknyTjUkX4y7I552adpQ/viewform?usp=sf_link). We'll send you reminders each week for the upcoming session.
 ### Other ITS operated R courses
 
 University of Otago ITS also offer free courses for students and staff for R. Descriptions and registration can be found at [https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/](https://corpapp.otago.ac.nz/training/its/course/subject/research-tools/)
