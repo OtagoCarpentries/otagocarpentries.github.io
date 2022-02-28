@@ -1,6 +1,10 @@
 ## Past events
 
+
+
 ### 2021
+
+- 22-26 November 2021: [Otago Bioinformatics Spring School 2021](https://otagocarpentries.github.io/bioinformatics-spring-school-2021/)
 
 - 5 - 7 July: [Research Bazaar Dunedin 2021](https://resbaz.github.io/resbaz2021/dunedin)
 
@@ -32,6 +36,8 @@
 ## Past Carpentries Workshops
 
 ### 2021
+
+- 4 and 11 Oct 2021: [Software Carpentry Workshop (Intro to UNIX shell, version control, and R for Reproducible Science)](otagocarpentries.github.io/2021-10-04-otago)
 
 9th April: [Genomics Aotearoa - RNAseq workshop](https://www.eventbrite.co.nz/e/rna-seq-workshop-otago-tickets-144284792699)
 
