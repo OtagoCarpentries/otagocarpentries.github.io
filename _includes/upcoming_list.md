@@ -2,10 +2,15 @@
 
 ## Upcoming Workshops
 
-- 2 - 3 September 2021: [Software Carpentry Workshop (Intro to UNIX shell, version control, and R for Reproducible Science)](https://otagocarpentries.github.io/2021-09-02-otago/)
-  - **POSTPONED**
+March
 
-## Upcoming Events
+Introduction to the UNIX Shell (online workshop) single day workshop
+- [Registration Link](https://www.eventbrite.com/e/introduction-to-unix-tickets-216538722147)
+- 17th March [Workshop page](https://otagocarpentries.github.io/2022-03-17-intro-bash/)
+- 28th March [Workshop page](https://otagocarpentries.github.io/2022-03-28-intro-bash/)
 
-- 22-26 November 2021: [Otago Bioinformatics Spring School 2021](https://otagocarpentries.github.io/bioinformatics-spring-school-2021/)
-  - expressions of interest have closed
+More workshops are being planned including:
+
+April: Introduction to R
+
+May: Introduction to version control with GIT
