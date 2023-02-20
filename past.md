@@ -1,8 +1,10 @@
 ## Past events
 
+
 ### 2022
 
 - 21-25 November 2022: [Otago Bioinformatics Spring School 2022](https://otagobioinformaticsspringschool.github.io/2022/)
+
 
 ### 2021
 
@@ -45,6 +47,8 @@ Introduction to the UNIX Shell (online workshop) single day workshop
 
 
 ### 2021
+
+4 and 11 Oct 2021: [Software Carpentry Workshop (Intro to UNIX shell, version control, and R for Reproducible Science)](otagocarpentries.github.io/2021-10-04-otago)
 
 2 - 3 September 2021: [Software Carpentry Workshop (Intro to UNIX shell, version control, and R for Reproducible Science)](https://otagocarpentries.github.io/2021-09-02-otago/)
 
