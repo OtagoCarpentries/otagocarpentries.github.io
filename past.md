@@ -1,6 +1,12 @@
 ## Past events
 
+### 2022
+
+- 21-25 November 2022: [Otago Bioinformatics Spring School 2022](https://otagobioinformaticsspringschool.github.io/2022/)
+
 ### 2021
+
+- 22-26 November 2021: [Otago Bioinformatics Spring School 2021](https://otagocarpentries.github.io/bioinformatics-spring-school-2021/)
 
 - 5 - 7 July: [Research Bazaar Dunedin 2021](https://resbaz.github.io/resbaz2021/dunedin)
 
@@ -31,7 +37,16 @@
 
 ## Past Carpentries Workshops
 
+### 2022
+
+Introduction to the UNIX Shell (online workshop) single day workshop
+- 17th March [Workshop page](https://otagocarpentries.github.io/2022-03-17-intro-bash/)
+- 28th March [Workshop page](https://otagocarpentries.github.io/2022-03-28-intro-bash/)
+
+
 ### 2021
+
+2 - 3 September 2021: [Software Carpentry Workshop (Intro to UNIX shell, version control, and R for Reproducible Science)](https://otagocarpentries.github.io/2021-09-02-otago/)
 
 9th April: [Genomics Aotearoa - RNAseq workshop](https://www.eventbrite.co.nz/e/rna-seq-workshop-otago-tickets-144284792699)
 
